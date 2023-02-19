@@ -117,6 +117,40 @@ GenerateClassCluster=0
 DocumentUniqueId=XIWGOTNO
 
 [Document5]
+DocumentPath=AltiumDesigner-Libraries\Footprint-Lib-PhilsLab.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=PJJBOUDJ
+
+[Document6]
+DocumentPath=AltiumDesigner-Libraries\Schematic-Lib-PhilsLab.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=NDNXAREH
+
+[Document7]
 DocumentPath=esp32_schlib.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -132,6 +166,14 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QQMYJFWZ
+
+[GeneratedDocument1]
+DocumentPath=esp32_schlib.csv
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=esp32_schlib.rep
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
@@ -1092,6 +1134,12 @@ SelectedOnly=0
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
+ComponentLibIdentifierKind0=Library Name And Type
+ComponentLibraryIdentifier0=esp32_schlib.SchLib
+ComponentDesignItemID0=ESP32-C3
+ComponentSymbolReference0=ESP32-C3
+ComponentUpdate0=1
+ComponentIsDeviceSheet0=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1105,12 +1153,55 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
+ParameterName0=Comment
+ParameterUpdate0=1
+ParameterName1=Component Kind
+ParameterUpdate1=1
+ParameterName2=ComponentLink1Description
+ParameterUpdate2=1
+ParameterName3=ComponentLink1URL
+ParameterUpdate3=1
+ParameterName4=Copyright
+ParameterUpdate4=1
+ParameterName5=Description
+ParameterUpdate5=1
+ParameterName6=Digi-Key_Part_Number_1
+ParameterUpdate6=1
+ParameterName7=Digi-Key_Part_Number_2
+ParameterUpdate7=1
+ParameterName8=Digi-Key_Part_Number_3
+ParameterUpdate8=1
+ParameterName9=Library Reference
+ParameterUpdate9=1
+ParameterName10=Manufacturer_Part_Number
+ParameterUpdate10=1
+ParameterName11=Mfr_Name
+ParameterUpdate11=1
+ParameterName12=RefDes
+ParameterUpdate12=1
+ParameterName13=Supplier 1
+ParameterUpdate13=1
+ParameterName14=Supplier Part Number 1
+ParameterUpdate14=1
+ParameterName15=Type
+ParameterUpdate15=1
+ModelTypeGroup0=PCBLIB
+ModelTypeUpdate0=1
+ModelType0=PCBLIB
+ModelName0=QFN32_5X5_EXP
+ModelUpdate0=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
+ComponentLibIdentifierKind0=Library Name And Type
+ComponentLibraryIdentifier0=esp32_schlib.SchLib
+ComponentDesignItemID0=ESP32-C3
+ComponentSymbolReference0=ESP32-C3
+ComponentUpdate0=1
+ComponentIsDeviceSheet0=0
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
