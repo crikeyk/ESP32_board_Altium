@@ -116,6 +116,31 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QQMYJFWZ
 
+[Document5]
+DocumentPath=display.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=GXBCDYDT
+
+[ProjectVariant1]
+UniqueID=7810F769-B6CB-418E-A6E0-7A32948FA482
+Description=ESP32_board
+AllowFabrication=0
+ParameterCount=0
+VariationCount=0
+ParamVariationCount=0
+
 [GeneratedDocument1]
 DocumentPath=esp32_schlib.csv
 DItemRevisionGUID=
@@ -1131,14 +1156,14 @@ NetClassManualEnabled=1
 NetClassSeparateForBusSections=0
 
 [LibraryUpdateOptions]
-SelectedOnly=0
+SelectedOnly=1
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
 ComponentLibraryIdentifier0=esp32_schlib.SchLib
-ComponentDesignItemID0=ESP32-C3
-ComponentSymbolReference0=ESP32-C3
+ComponentDesignItemID0=ESP32-S3
+ComponentSymbolReference0=ESP32-S3
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
 FullReplace=1
@@ -1158,38 +1183,20 @@ ParameterName0=Comment
 ParameterUpdate0=1
 ParameterName1=Component Kind
 ParameterUpdate1=1
-ParameterName2=ComponentLink1Description
+ParameterName2=Description
 ParameterUpdate2=1
-ParameterName3=ComponentLink1URL
+ParameterName3=JLCPCB Part Number
 ParameterUpdate3=1
-ParameterName4=Copyright
+ParameterName4=Library Reference
 ParameterUpdate4=1
-ParameterName5=Description
+ParameterName5=Manufacturer
 ParameterUpdate5=1
-ParameterName6=Digi-Key_Part_Number_1
+ParameterName6=Manufacturer Part Number
 ParameterUpdate6=1
-ParameterName7=Digi-Key_Part_Number_2
-ParameterUpdate7=1
-ParameterName8=Digi-Key_Part_Number_3
-ParameterUpdate8=1
-ParameterName9=Library Reference
-ParameterUpdate9=1
-ParameterName10=Manufacturer_Part_Number
-ParameterUpdate10=1
-ParameterName11=Mfr_Name
-ParameterUpdate11=1
-ParameterName12=RefDes
-ParameterUpdate12=1
-ParameterName13=Supplier 1
-ParameterUpdate13=1
-ParameterName14=Supplier Part Number 1
-ParameterUpdate14=1
-ParameterName15=Type
-ParameterUpdate15=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=QFN32_5X5_EXP
+ModelName0=STM32_S3
 ModelUpdate0=1
 
 [DatabaseUpdateOptions]
