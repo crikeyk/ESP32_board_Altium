@@ -1,2 +1,3 @@
 Record=TopLevelDocument|FileName=MCU.SchDoc|SheetNumber=1
 Record=SheetSymbol|SourceDocument=MCU.SchDoc|Designator=U_display|SchDesignator=U_display|FileName=display.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=display.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=MCU.SchDoc|Designator=U_USB and power|SchDesignator=U_USB and power|FileName=USB and power.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=USB and power.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
