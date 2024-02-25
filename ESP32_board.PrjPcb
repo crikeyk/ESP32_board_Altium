@@ -176,15 +176,119 @@ VariationCount=0
 ParamVariationCount=0
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for ESP32_board\Design Rule Check - ESP32_board_PCB.html
+DocumentPath=Project Outputs for ESP32_board\BOM\Bill of Materials-ESP32_board.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=esp32_schlib.csv
+DocumentPath=Project Outputs for ESP32_board\Design Rule Check - ESP32_board_PCB.html
 DItemRevisionGUID=
 
 [GeneratedDocument3]
+DocumentPath=Project Outputs for ESP32_board\NC Drill\ESP32_board_PCB-RoundHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for Free Documents\NC Drill\ESP32_board_PCB-RoundHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for ESP32_board\NC Drill\ESP32_board_PCB-SlotHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for Free Documents\NC Drill\ESP32_board_PCB-SlotHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for ESP32_board\NC Drill\ESP32_board_PCB.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for Free Documents\NC Drill\ESP32_board_PCB.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for ESP32_board\Gerber\ESP32_board_PCB.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for Free Documents\Gerber\ESP32_board_PCB.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for ESP32_board\Gerber\ESP32_board_PCB.G1
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for ESP32_board\Gerber\ESP32_board_PCB.G2
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for ESP32_board\Gerber\ESP32_board_PCB.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for ESP32_board\Gerber\ESP32_board_PCB.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for ESP32_board\Gerber\ESP32_board_PCB.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for ESP32_board\Gerber\ESP32_board_PCB.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for ESP32_board\Gerber\ESP32_board_PCB.GM3
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for ESP32_board\Gerber\ESP32_board_PCB.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for ESP32_board\Gerber\ESP32_board_PCB.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for ESP32_board\Gerber\ESP32_board_PCB.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for ESP32_board\Gerber\ESP32_board_PCB.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for ESP32_board\NC Drill\ESP32_board_PCB.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for Free Documents\NC Drill\ESP32_board_PCB.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for ESP32_board\Gerber\ESP32_board_PCB.REP
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for Free Documents\Gerber\ESP32_board_PCB.REP
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=esp32_schlib.csv
+DItemRevisionGUID=
+
+[GeneratedDocument27]
 DocumentPath=esp32_schlib.rep
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for ESP32_board\Pick Place\Pick Place for ESP32_board_PCB.csv
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for ESP32_board\Pick Place\Pick Place for ESP32_board_PCB.txt
 DItemRevisionGUID=
 
 [Configuration1]

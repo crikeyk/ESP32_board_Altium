@@ -18,7 +18,7 @@ RevisionNamingSchemeGUID=
 Name=outputJobFiles.OutJob
 Description=
 TargetOutputMedium=Folder Structure
-VariantName=[No Variations]
+VariantName=ESP32_board
 VariantScope=1
 CurrentConfigurationName=
 TargetPrinter=Microsoft Print to PDF
@@ -113,7 +113,7 @@ Configuration5_Item1=Record=PickPlaceView|Units=Metric|GenerateCSVFormat=True|Ge
 [PublishSettings]
 OutputFilePath2=Project Outputs for Free Documents\.PDF
 ReleaseManaged2=1
-OutputBasePath2=Project Outputs for Free Documents
+OutputBasePath2=Project Outputs for ESP32_board
 OutputPathMedia2=
 OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
@@ -153,7 +153,7 @@ OutputFileNameSpecial3=
 OpenOutput3=1
 OutputFilePath4=
 ReleaseManaged4=1
-OutputBasePath4=
+OutputBasePath4=Project Outputs for ESP32_board
 OutputPathMedia4=
 OutputPathMediaValue4=
 OutputPathOutputer4=[Output Type]
